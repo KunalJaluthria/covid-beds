@@ -856,7 +856,7 @@ int welcome()
 	  cout<<"\t\t\t\t\t|                                                                                       |\n";
 	  cout<<"\t\t\t\t\t|                                                                                       |\n";
 	  cout<<"\t\t\t\t\t|                                                                                       |\n";
-	  cout<<"\t\t\t\t\t|    PROJECT BY -> KUNAL JALUTHRIA (2K20/CO/237) AND KUNAL SINGH RAGHAV (2K20/CO/239)   |\n";
+	  cout<<"\t\t\t\t\t|                            PROJECT BY -> KUNAL JALUTHRIA                              |\n";
 	  cout<<"\t\t\t\t\t|_______________________________________________________________________________________|\n";
 	  
 	  system("pause");
